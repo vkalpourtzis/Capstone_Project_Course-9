@@ -1,0 +1,2 @@
+# Capstone_Project_Course-9
+This project's goal is to find an optimal kind of venue (increased probability of high demand) to be opened in the downtown of a capital city. More specifically, this report aims to people interested in opening a business in the center of Athens, Greece.  To maximize the chances of success data from centers of seven big cities will be compared to conclude, according to Athens' downtown data, what is the recommended type of venue to open. Instead of extensive globalization, there is a prospect that the downtown of Athens may miss something.
